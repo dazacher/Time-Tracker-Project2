@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license)
 
 # Time Tracker Overview
-This is an easy to use time tracker system to allow freelancers or independent contractors to manage their time and  earnings based on their hourly wage. Included in this project is secure login authentication, a page to track clocking in and clocking out and then finally a dashboard that allows the user to see their total hours worked and total earnings. 
+This is a Full Stack App. This is an easy to use time tracker system to allow freelancers or independent contractors to manage their time and  earnings based on their hourly wage. Included in this project is secure login authentication, a page to track clocking in and clocking out and then finally a dashboard that allows the user to see their total hours worked and total earnings. 
 ---
 
 ### Concept/User Story
